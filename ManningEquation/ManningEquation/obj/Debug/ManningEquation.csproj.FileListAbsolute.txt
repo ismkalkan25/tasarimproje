@@ -1,0 +1,14 @@
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\bin\Debug\ManningEquation.exe.config
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\bin\Debug\ManningEquation.exe
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\bin\Debug\ManningEquation.pdb
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\obj\Debug\ManningEquation.Form1.resources
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\obj\Debug\ManningEquation.Properties.Resources.resources
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\obj\Debug\ManningEquation.csproj.GenerateResource.cache
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\obj\Debug\ManningEquation.csproj.CoreCompileInputs.cache
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\obj\Debug\ManningEquation.exe
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\obj\Debug\ManningEquation.pdb
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\bin\Debug\ManningEquation.exe.manifest
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\bin\Debug\ManningEquation.application
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\obj\Debug\ManningEquation.exe.manifest
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\obj\Debug\ManningEquation.application
+C:\Users\fbbas\source\repos\ManningEquation\ManningEquation\obj\Debug\ManningEquation.csproj.AssemblyReference.cache
